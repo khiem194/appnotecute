@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cute Note</string>
+    <string name="date">Date</string>
+    <string name="tv_total_task">Task,</string>
+    <string name="_3_complete">Completed</string>
+    <string name="incomplete">Task</string>
+    <string name="complete">Complete</string>
+    <string name="loading_app">Loading App...</string>
+    <string name="this_action">Khiêm Đỗ</string>
+    <string name="powered_by_kdnt">com.kdnt.notecute</string>
+    <string name="add_task">Add Task</string>
+    <string name="save">OK</string>
+    <string name="title">Input...</string>
+    <string name="title_dialog">Delete Task</string>
+    <string name="content">Are you sure delete this task?</string>
+    <string name="delete_all">Delete All</string>
+    <string name="empty">empty</string>
+    <string name="no_data">No Data. Please click the button at the bottom right of the screen to add task!</string>
+    <string name="title_all_dialog">Delete All Task</string>
+    <string name="content_all_task">Are you sure delete all task? </string>
+    <string name="edit">Edit</string>
+    <string name="attention">Bạn không được để trống!</string>
+</resources>
